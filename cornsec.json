@@ -1,0 +1,13 @@
+    {
+        "asset": "CORNSEC",
+        "website": "http://bitcorns.com",
+        "image": "https://terhnt.github.io/cornsec.png",
+        "image_large": "https://terhnt.github.io/cornseclarge.png",
+        "description": "a secret group of elite hackers led by smallratpepe - asset issued by terhnt with the art by smallratpepe",
+        "name": "CORNSEC",
+        "origin": "Terhnt",
+        "tradepair": "BITCORN",
+        "dispenser": "188gkL7ZYcsoGShuv7VTFtZaG5RUcxcwhQ",
+        "license": "",
+        "series": "Bitcorns"
+    }
