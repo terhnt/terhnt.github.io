@@ -1,7 +1,7 @@
 {
   "Projects": {
-    "Names": ["UnoClowns", "UnoCorns"],
-    "Description": ["A clown party", "Mythical Corn"],
-    "Url": ["https://terhnt.github.io/unoclownsfeed.json", "https://terhnt.github.io/unocorns.json"]
+    "Names": { "UnoClowns": {} , "UnoCorns": {} },
+    "Description": { "A clown party": {}, "Mythical Corn":{} },
+    "Url": { "https://terhnt.github.io/unoclownsfeed.json":{} , "https://terhnt.github.io/unocorns.json":{} }
     }
 }
