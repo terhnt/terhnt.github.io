@@ -1,0 +1,13 @@
+    {
+        "asset": "PEPEXARCORNE",
+        "website": "http://bitcorns.com",
+        "image": "https://terhnt.github.io/pepexarcorne-48x.png",
+        "image_large": "https://terhnt.github.io/smallpepexarcorne.png",
+        "description": "A manic and impulsive farmer turned criminal",
+        "name": "PEPExARCORNE",
+        "origin": "Terhnt",
+	"artist": "RareDesigner",
+        "dispenser": "188gkL7ZYcsoGShuv7VTFtZaG5RUcxcwhQ",
+        "license": "",
+        "series": "Bitcorns"
+    }
